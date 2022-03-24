@@ -1,0 +1,45 @@
+Country	JHU_Name
+Hong Kong	China
+Macao	China
+Saint-Barthélemy	France
+St Martin	France
+French Guiana	France
+Fench Guiana	France
+Mayotte	France
+Guadeloupe	France
+New Caledonia	France
+Martinique	France
+Mayotte	France
+Saint Pierre and Miquelon	France
+Wallis and Futuna	France
+French Polynesia	France
+Reunion	France
+Faroe Islands	Denmark
+Greenland	Denmark
+Curaçao	Netherlands
+Aruba	Netherlands
+Sint Maarten	Netherlands
+Bonaire, Sint Eustatius and Saba	Netherlands
+Guam	United States
+Puerto Rico	United States
+Virgin Islands, U.S.	United States
+Virgin Islands	United States
+United States Virgin Islands	United States
+Channel Islands	United Kingdom
+Gibraltar	United Kingdom
+Cayman Islands	United Kingdom
+Montserrat	United Kingdom
+Bermuda	United Kingdom
+Isle of Man	United Kingdom
+Saint Helena, Ascension and Tristan da Cunha	United Kingdom
+Anguilla	United Kingdom
+British Virgin Islands	United Kingdom
+Turks and Caicos Islands	United Kingdom
+Falkland Islands (Islas Malvinas)	United Kingdom
+Falkland Islands (Malvinas)	United Kingdom
+American Samoa	United States
+Northern Mariana Islands	United States
+
+
+
+
